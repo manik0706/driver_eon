@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'package:driver/driver_aadhaar.dart';
 import 'package:driver/driver_login.dart';
+import 'package:driver/driver_wallet.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {
